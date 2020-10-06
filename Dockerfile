@@ -7,7 +7,7 @@
 
 
 
-
+## Globular Cluster searching
 
 FROM nvidia/cuda:8.0-devel-ubuntu16.04
 
