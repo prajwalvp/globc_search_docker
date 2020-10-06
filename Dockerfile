@@ -109,6 +109,6 @@ RUN pip3 install xmljson
 # Extras
 RUN apt-get -y install libgfortran3
 
-WORKDIR /software/trapum-pipeline-wrapper/pipelines/trapum_search_pipeline
+WORKDIR /software/trapum-pipeline-wrapper/pipelines/globc_searching_pipeline
 
 CMD ["bash"]
