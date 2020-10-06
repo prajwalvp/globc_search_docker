@@ -1,3 +1,6 @@
 # globc_search_docker
 
-Dockerfile maintained for Globular cLuster searches with TRAPUM
+Dockerfile maintained for Globular Cluster searches with TRAPUM
+
+
+
